@@ -1,0 +1,24 @@
+ {
+  _id: {
+    _data: '82676AC181000000012B042C0100296E5A10041C2333589F5747838D7EA713377BA2A1463C6F7065726174696F6E54797065003C696E736572740046646F63756D656E744B65790046645F69640064676AC181ADC1678804C7EFB4000004'
+  },
+  operationType: 'insert',
+  clusterTime: new Timestamp({ t: 1735049601, i: 1 }),
+  wallTime: 2024-12-24T14:13:21.436Z,
+  fullDocument: {
+    _id: new ObjectId("676ac181adc1678804c7efb4"),
+    title: 'Hùng Đẹp trai #3',
+    markdown: 'My name is Hùng lz',
+    userId: new ObjectId("676ab3efa7844c8bc8a4d661"),
+    tags: [ '#Java' ],
+    votes: [],
+    summary: 'My name is Hùng lz',
+    savedBy: [],
+    comments: [],
+    createdAt: 2024-12-24T14:13:21.432Z,
+    updatedAt: 2024-12-24T14:13:21.432Z,
+    __v: 0
+  },
+  ns: { db: 'medium-clone', coll: 'posts' },
+  documentKey: { _id: new ObjectId("676ac181adc1678804c7efb4") }
+}
